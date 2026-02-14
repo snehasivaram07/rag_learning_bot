@@ -1,0 +1,14 @@
+streamlit
+torch
+faster-whisper
+sentence-transformers
+faiss-cpu
+gTTS
+python-docx
+pypdf
+python-pptx
+pdf2image
+pytesseract
+streamlit-mic-recorder
+numpy
+scikit-learn
